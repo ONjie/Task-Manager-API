@@ -48,4 +48,10 @@ A **FastAPI**-based **Task Manager API** with **JWT authentication**, supporting
 - **Dependency Management:** Python `venv` + `requirements.txt`  
 
 ---
+## Result
+
+<img width="1440" height="900" alt="Screenshot 2025-09-10 at 13 15 40" src="https://github.com/user-attachments/assets/a0d03e22-cc8d-4120-9d1d-3bd4f0328914" />
+
+
+
 
